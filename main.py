@@ -1,6 +1,5 @@
 '''
 Name    :   Chirag Singh
-Uid     :   U90684694
 About   :   This program allows the user to choose from many number series. This program allows the user to give a number.
 and the number gives gives the n'th term from the series.
           the user can also select on which kind ofseries he wants from the menu
